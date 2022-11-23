@@ -4,4 +4,4 @@ Resolusi rafasyah
 2. Membuat Apliasi website
 3. Build Microblog
 4. Menguasai UI/UX
-5. Membuat Desktop
+
